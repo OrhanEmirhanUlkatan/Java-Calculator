@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Uygulama1</string>
+    <string name="uygulamaAdi">Kitap Kütüphanesi</string>
+    <string name="uygulamaEkle">Kitap Ekle</string>
+    <string name="etBaslik">Başlık</string>
+    <string name="etYazar">Yazar</string>
+    <string name="etSayfaSayisi">Sayfa Sayisi</string>
+    <string name="btnKitapEkle">Kitap Ekle</string>
+    <string name="btnKitapGüncelleme">Kitap Güncelle</string>
+    <string name="btnKitapSilme">Kitap Silme</string>
+    <string name="btnTamaminiSil">Tamamını Sil</string>
+    <string name="tvVeriYok">Veri Yok</string>
+    <string name="tvYazar">Yazar 1</string>
+    <string name="tvBaslik">Başlık 1 </string>
+    <string name="tvSayfaSayisi">0</string>
+    <string name="tvKitapID">1</string>
+
+
+</resources>
