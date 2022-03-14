@@ -1,2 +1,2 @@
-# Mobil/Java-HesapMakinesi
- Mobil/Java-HesapMakinesi
+# Java/Calculator
+ Java/Calculator
